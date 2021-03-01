@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    background-color: gold;
+}
+.flex-container{
+    display: inline-flex;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+.text-decoration{
+    color: #02995b;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    background-color: white;
+}
+.flex-items_bonze{
+    background-color: white;
+    height: 440px;
+    width: 360px;
+}
+.flex-items_cup_gold{
+    background-color: white;
+    position: relative;
+    bottom: 30px;
+    height: 500px;
+    width: 360px;
+}
+.flex-items-cup_grey{
+    background-color: white;
+    height: 440px;
+    width: 360px;
+}
+.bronze_smoke{
+    background-color: white;
+    margin-left: 155px;
+    position: relative;
+    top: 35px;
+}
+.bronze_cup{
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.text_down{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 120px;
+}
+.text_bronze{
+    text-align: center;
+    background-color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;
+}
+.text-decoration_gold{
+    color: #02995b;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    background-color: white;
+}
+.gold_smoke{
+    background-color: white;
+    margin-left: 155px;
+    position: relative;
+    top: 35px;
+}
+.gold_cup{
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.text_downgold{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 140px;
+}
+.text_gold{
+    text-align: center;
+    background-color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;
+}
+.text-decoration_grey{
+    color: #02995b;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    background-color: white;
+}
+.grey_smoke{
+    background-color: white;
+    margin-left: 155px;
+    position: relative;
+    top: 35px;
+}
+.grey_cup{
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.text_downgrey{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 120px;
+}
+.text_grey{
+    text-align: center;
+    background-color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;
+}
+
+
+
